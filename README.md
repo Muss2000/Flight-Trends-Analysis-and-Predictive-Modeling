@@ -48,8 +48,3 @@ The dataset contains **10,683 flight records** with the following features:
 - **Scikit-learn:** For building and evaluating machine learning models.
 - **Jupyter Notebooks:** For interactive data analysis and visualization.
 
-## Installation Instructions
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/airline-data-analysis.git
